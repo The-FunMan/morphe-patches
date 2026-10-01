@@ -1,3 +1,16 @@
+## [1.45.0-dev.24](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.23...v1.45.0-dev.24) (2026-10-01)
+
+### ✨ New Features
+
+* Add Backdrops and Battery Guru premium-unlock patches ([992cd32](https://github.com/The-FunMan/morphe-patches/commit/992cd3211b615adfe84ec640ce3367b559e57964))
+* **YouTube - Disable continue watching prompt:** Add option to stop autoplay pausing after inactivity ([76a5c4b](https://github.com/The-FunMan/morphe-patches/commit/76a5c4b7808655670e029babed474cfcabfca714)), closes [#684](https://github.com/The-FunMan/morphe-patches/issues/684)
+* **YouTube - Playback buffer:** Use buffer levels and add playback buffer memory option ([e621ed1](https://github.com/The-FunMan/morphe-patches/commit/e621ed1be2c3b6544c0a46d7438f58a806e01ca3))
+* **YouTube:** Add 'Skip silence' patch ([7f47318](https://github.com/The-FunMan/morphe-patches/commit/7f47318ac2069916bca8959403231c63d873244b))
+
+### 🚀 Updated App Support
+
+* **YouTube:** Add experimental support for `21.39.522-SECONDARY` ([f93f6f1](https://github.com/The-FunMan/morphe-patches/commit/f93f6f1fbd71258802c2adfc9fb1b76ad2e5300d))
+
 ## [1.45.0-dev.23](https://github.com/MorpheApp/morphe-patches/compare/v1.45.0-dev.22...v1.45.0-dev.23) (2026-10-01)
 
 ### 🐛 Bug Fixes
