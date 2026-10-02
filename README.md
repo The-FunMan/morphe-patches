@@ -35,7 +35,7 @@ All modifications made by Morphe, along with their dates, can be found in the Gi
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.45.0-dev.27](https://github.com/The-FunMan/morphe-patches/releases/tag/v1.45.0-dev.27)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;168 patches total
+> **[v1.45.0-dev.28](https://github.com/The-FunMan/morphe-patches/releases/tag/v1.45.0-dev.28)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;168 patches total
 <details>
 <summary>📦 YouTube&nbsp;&nbsp;•&nbsp;&nbsp;94 patches</summary>
 <br>

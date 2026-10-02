@@ -1,3 +1,9 @@
+## [1.45.0-dev.28](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.27...v1.45.0-dev.28) (2026-10-02)
+
+### 🐛 Bug Fixes
+
+* Refresh fork branding ([f699955](https://github.com/The-FunMan/morphe-patches/commit/f6999554180a5f7c43ddea8fc90fb07291effb2e))
+
 ## [1.45.0-dev.27](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.26...v1.45.0-dev.27) (2026-10-02)
 
 ### ✨ New Features
