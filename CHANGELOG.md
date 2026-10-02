@@ -1,3 +1,9 @@
+## [1.45.0-dev.26](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.25...v1.45.0-dev.26) (2026-10-02)
+
+### ✨ New Features
+
+* **YouTube:** Add "Force system font" patch ([4f83085](https://github.com/The-FunMan/morphe-patches/commit/4f830852c1d5b15008fd74c35bf30d53e67192e5))
+
 ## [1.45.0-dev.25](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.24...v1.45.0-dev.25) (2026-10-02)
 
 ### ✨ New Features
