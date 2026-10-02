@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-10-02T02:01:40",
-  "description": "## [1.45.0-dev.26](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.25...v1.45.0-dev.26) (2026-10-02)\n\n### ✨ New Features\n\n* **YouTube:** Add \"Force system font\" patch ([4f83085](https://github.com/The-FunMan/morphe-patches/commit/4f830852c1d5b15008fd74c35bf30d53e67192e5))",
-  "download_url": "https://github.com/The-FunMan/morphe-patches/releases/download/v1.45.0-dev.26/patches-1.45.0-dev.26.mpp",
+  "created_at": "2026-10-02T02:51:02",
+  "description": "## [1.45.0-dev.27](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.26...v1.45.0-dev.27) (2026-10-02)\n\n### ✨ New Features\n\n* Brand the fork as The FunMan's patches ([1b3441c](https://github.com/The-FunMan/morphe-patches/commit/1b3441c8ff0a7197804a8b631ffc0699df3b1d38))",
+  "download_url": "https://github.com/The-FunMan/morphe-patches/releases/download/v1.45.0-dev.27/patches-1.45.0-dev.27.mpp",
   "signature_download_url": "",
-  "version": "1.45.0-dev.26"
+  "version": "1.45.0-dev.27"
 }

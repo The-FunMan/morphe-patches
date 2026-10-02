@@ -1,3 +1,9 @@
+## [1.45.0-dev.27](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.26...v1.45.0-dev.27) (2026-10-02)
+
+### ✨ New Features
+
+* Brand the fork as The FunMan's patches ([1b3441c](https://github.com/The-FunMan/morphe-patches/commit/1b3441c8ff0a7197804a8b631ffc0699df3b1d38))
+
 ## [1.45.0-dev.26](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.25...v1.45.0-dev.26) (2026-10-02)
 
 ### ✨ New Features
