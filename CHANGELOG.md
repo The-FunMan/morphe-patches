@@ -1,3 +1,9 @@
+## [1.45.0-dev.25](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.24...v1.45.0-dev.25) (2026-10-02)
+
+### ✨ New Features
+
+* **YouTube - Disable video codecs:** Add "Force VP9 codec" setting ([190e699](https://github.com/The-FunMan/morphe-patches/commit/190e69920dbb98a416ce195a6230ff908a8dfe2f))
+
 ## [1.45.0-dev.24](https://github.com/The-FunMan/morphe-patches/compare/v1.45.0-dev.23...v1.45.0-dev.24) (2026-10-01)
 
 ### ✨ New Features
